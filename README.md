@@ -1,0 +1,2 @@
+# aidorubot
+discord bot
